@@ -5,4 +5,4 @@ For this website I used the following technologies:
 -React Router
 -React Bootstrap
 
-Live site link: https://practical-villani-fa34d7.netlify.app/
+Live site link: https://health-gadgets.web.app/
