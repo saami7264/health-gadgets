@@ -1,0 +1,17 @@
+.input-field{
+    width: 20%;
+    height: 50px;
+    border: 2px solid #5792fe;
+    border-radius: 20px;
+}
+.submit-btn{
+    background-color: #5792fe;
+    width: 10%;
+    height: 50px;
+    border: 2px solid #5792fe;
+    border-radius: 20px;
+    font-weight: 800;
+}
+.submit-btn:hover{
+    background-color: #49d395;
+}

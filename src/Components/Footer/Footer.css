@@ -1,0 +1,11 @@
+.footer-section{
+    width: 100%;
+    background-color: #212529;
+}
+.fab{
+    margin: 10px 40px;
+    color: whitesmoke;
+}
+.fab:hover{
+    color: #49d395;
+}

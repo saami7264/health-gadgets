@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Apple Watch",
+        "details": "Apple Watch can help meet sleep goals, track information related to your heart, check blood oxygen levels.",
+        "description": "Apple Watch can help you create a sleep schedule, track your sleep, measure your respiratory rate during sleep, then report your sleep trends over time. You can enable notifications from the Heart Rate app  on your Apple Watch to alert you to high or low heart rates. The irregular heart rhythm notification on the Apple Watch can also alert you if an irregular rhythm suggestive of Atrial fibrillation is identified. Tend to your mental well-being. The new Reflect feature in the Mindfulness app  includes written prompts and soothing, energetic animation that guide you to be more present and mindful. Turn on Handwashing in the Apple Watch app on iPhone, and your Apple Watch encourages you to keep going for 20 seconds, the time recommended by global health organizations.",
+        "img": "https://purepng.com/public/uploads/large/apple-watch-pcq.png"
+    },
+    {
+        "id": 2,
+        "name": "Fitbit Versa 2",
+        "details": "The new $199.99 Versa 2, which hits stores on September 15th, is the company’s latest smartwatch effort.",
+        "description": "Elevate your day with the Fitbit Versa 2™ premium health & fitness smartwatch—includes Amazon Alexa Built-in, new sleep tools, fitness features, apps and more. The general design of the Versa 2 is the same as before, but Fitbit has simplified the interactions down from the previous multibutton setup to a single button on the left and the touchscreen. The watch doesn’t lose any functionality, however — you can still do all of the same things with the Versa 2 as could be done with the first Versa. Like the Versa, the Versa 2 has excellent battery life; it easily hit the five-day mark for me in testing. If you use the always-on display feature, you can expect that figure to roughly drop by half. Two to three days between charges is still excellent battery life for a smartwatch.",
+        "img": "https://i.ibb.co/7JmSgyr/vitbit-versa-2.png"
+    },
+    {
+        "id": 3,
+        "name": "Emotive Insight",
+        "details": "Emotiv Insight is a piece of wearable tech that is designed to monitor brain waves and create electroencephalograms.",
+        "description": "The pace of everyday life has become incredibly fast, which inevitably leads to stress and stress-related issues. Apart from stress, another issue we deal with in today’s world is productivity. Fortunately, this next item of healthcare technology can help you tackle both, and best of all, it looks like something that came out of Minority Report or some other sci-fi movie. It’s called the Emotiv Insight, and basically, it is a piece of wearable tech that is designed to monitor your brain waves and create electroencephalograms, which are then used to create useful data that can help you reduce your stress levels, improve your focus, increase your motivation, or to relax after a long day. Determining during which times of day you are at your most productive can help you build your schedule around that, therefore making the most out of your cognitive abilities. The same goes for those times when you want to relax or wind down. You end being more productive and relaxed at the same time, which is the best possible outcome. There is plenty of research out there that suggests that people can perform better once they are informed about all these indicators. They can even override their genetic predispositions! The device is compatible with both Android and iOS devices.",
+        "img": "https://i.ibb.co/qgpQqWt/emotiv-insight.png"
+    },
+    {
+        "id": 4,
+        "name": "Tinké Health Monitor",
+        "details": "Tinké is a health monitor that allows you to see your heart rates, respiratory rates, blood oxygen levels and heart rate variability.",
+        "description": "Tinké is a health monitor that allows you to see your heart rates, respiratory rates, blood oxygen levels and heart rate variability. These features allow you to monitor your fitness level and at the same time, also teach you how to relax and manage stress. It’s built for iOS devices and comes with 30-pin and lightning connector versions. Plugging it in and launching the app allows you to view the scans of the details and readings of your body.",
+        "img": "https://i.ibb.co/3RdnhBv/tinky-health-monitor.png"
+    },
+    {
+        "id": 5,
+        "name": "Verilux Cleanwave",
+        "details": "Verilux CleanWave Wand relies on UV-C light to eliminate as much as 99,9% of all viruses, bacteria, and mold found on hard surfaces.",
+        "description": "Although the name of this healthcare gadget is quite complicated, it is straightforward to use. Verilux CleanWave Wand relies on UV-C light to eliminate as much as 99,9% of all viruses, bacteria, and mold found on hard surfaces. It can help you protect yourself from common but dangerous pathogens such as MRSA, H1N1, and E-coli. The entire cleaning process is straightforward. All you have to do is turn on the wand and hold it between 30 and 60 seconds over the surface area, after which you will be safe to use it. The wand is especially convenient for small children and/or those with a sensitive immune system. This healthcare technology device also comes with a safety feature that turns off the UV-C light when they want it not in a horizontal position. At first glance, this is great, but it also means that you can clean upright surfaces, such as curtains, which can store a ton of germs and mold. Of course, you can still take them down and sanitize them using the wand, but it would have been much easier to clean them in their original position. Other than that, the Verilux CleanWave Wand is a device that any germaphobe should own.",
+        "img": "https://i.ibb.co/r0VRBr3/verilux-cleanwave.png"
+    },
+    {
+        "id": 6,
+        "name": "Withings Nokia Thermo",
+        "details": " Thermo, a healthcare gadget that accurately takes your temperature. It can store up to 32 different temperatures.",
+        "description": "Even if you are an adult, one of the most annoying things is taking your temperature while you are sick. It can get pretty time-consuming and uncomfortable, depending on what kind of thermometer you are using. However, all that is a thing of the past thank Thermo, a healthcare gadget that does not accurately take your temperature. Still, it also does so in the most non-invasive way possible, making it especially convenient for kids. The entire process takes just two seconds, during which the device will make over 4,000 separate temperature measurements from your temporal artery. Another convenient feature of Thermo is that it scans the skin.  This means that there is no contact between your skin and the device. As a result of this, you can take your child’s or patient’s temperature without stirring or waking them up, which is a whole new level of patient experience and care. All of this is possible thanks to 16 infrared sensors, which also consider the room temperature when making measurements. Once the temperature has been recorded, the device will vibrate. It can store up to 32 different temperatures, and on top of that, you can create a separate profile for each family member.",
+        "img": "https://i.ibb.co/xHH7qcG/withings-nokia-thermo.png"
+    }
+]
